@@ -229,7 +229,7 @@ This project serves as a comprehensive educational resource for:
 - **Machine Learning Engineers**: Performance optimization and debugging techniques
 - **Researchers**: Foundation for more advanced CNN architectures
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -264,14 +264,6 @@ This project serves as a comprehensive educational resource for:
 - Check data normalization
 - Verify label encoding
 - Adjust learning rate or optimizer
-
-## Additional Resources
-
-### Further Reading
-
-- **Deep Learning Book** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- **Pattern Recognition and Machine Learning** by Christopher Bishop
-- **Convolutional Neural Networks for Visual Recognition** (CS231n Stanford Course)
 
 ### Online Resources
 
